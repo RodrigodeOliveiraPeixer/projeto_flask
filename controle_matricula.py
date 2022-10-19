@@ -63,4 +63,4 @@ def detalhes():
 
 
     
-app.run().
+app.run()
